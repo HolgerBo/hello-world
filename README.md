@@ -1,2 +1,3 @@
 # hello-world
-foo test learn
+# foo test learn
+write-host "hello world"
